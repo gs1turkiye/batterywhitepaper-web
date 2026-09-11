@@ -4850,7 +4850,7 @@ html:not(.dark) .VPImage.dark[data-v-8426fc1a] {
   --vp-c-brand-1: #005b99;
   --vp-c-brand-2: #0075bd;
   --vp-c-brand-3: #003b66;
-  --vp-font-family-base: Arial, Helvetica, sans-serif;
+  --vp-font-family-base: "Gotham SSm A", "Gotham SSm B", Verdana, sans-serif;
   --vp-sidebar-width: 300px;
 }
 .dark { --vp-c-brand-1: #75c7ff; --vp-c-brand-2: #a3dbff; }
