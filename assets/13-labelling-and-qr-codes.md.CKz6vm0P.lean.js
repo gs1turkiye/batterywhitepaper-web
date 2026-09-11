@@ -1,0 +1,13 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, a3 as createStaticVNode } from "./chunks/framework.CGt8wd3h.js";
+const __pageData = JSON.parse('{"title":"13. Labelling, QR codes and battery passports","description":"","frontmatter":{},"headers":[],"relativePath":"13-labelling-and-qr-codes.md","filePath":"13-labelling-and-qr-codes.md"}');
+const _sfc_main = { name: "13-labelling-and-qr-codes.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return openBlock(), createElementBlock("div", null, [..._cache[0] || (_cache[0] = [
+    createStaticVNode("", 31)
+  ])]);
+}
+const _13LabellingAndQrCodes = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  _13LabellingAndQrCodes as default
+};
