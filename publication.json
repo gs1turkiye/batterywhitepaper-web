@@ -1,12 +1,5 @@
 {
-  "sourceRepository": "gs1turkiye/batterywhitepaper",
-  "sourceCommit": "fdc58cfb157d9f824357350a0bc0141ab41098a1",
-  "readers": [
-    "master",
-    "portable",
-    "lmt",
-    "sli",
-    "industrial",
-    "ev"
-  ]
+  "type": "redirects",
+  "destination": "https://gs1turkiye.github.io/batteryimplementationguideline/",
+  "sourceCommit": "1ad1e1ba535d8e30be0d5c5a088be73e5dd38925"
 }
